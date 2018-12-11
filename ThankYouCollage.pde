@@ -1,3 +1,4 @@
+/*@pjs preload="NintendoSwitch.png"; */
 PImage img;
 int x=0;
 int y=0;
