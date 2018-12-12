@@ -21,8 +21,6 @@ void draw(){
   fill(255);
   text("ON",715,275);
 
-  
-  
   }
   
  
