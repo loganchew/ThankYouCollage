@@ -1,5 +1,4 @@
-/*@pjs preload="NintendoSwitch.png"; */
-/*@pjs preload="ReggieLaser.jpg"; */
+/*@pjs preload="NintendoSwitch.png"; *//*@pjs preload="ReggieLaser.jpg"; */
 PImage img;
 int x=0;
 int y=0;
